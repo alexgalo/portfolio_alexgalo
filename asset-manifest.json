@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio_alexgalo/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/portfolio_alexgalo/static/js/main.a999251e.chunk.js",
+    "main.js.map": "/portfolio_alexgalo/static/js/main.a999251e.chunk.js.map",
+    "runtime-main.js": "/portfolio_alexgalo/static/js/runtime-main.1bac4d4f.js",
+    "runtime-main.js.map": "/portfolio_alexgalo/static/js/runtime-main.1bac4d4f.js.map",
+    "static/js/2.1524ae04.chunk.js": "/portfolio_alexgalo/static/js/2.1524ae04.chunk.js",
+    "static/js/2.1524ae04.chunk.js.map": "/portfolio_alexgalo/static/js/2.1524ae04.chunk.js.map",
+    "static/js/3.758f774a.chunk.js": "/portfolio_alexgalo/static/js/3.758f774a.chunk.js",
+    "static/js/3.758f774a.chunk.js.map": "/portfolio_alexgalo/static/js/3.758f774a.chunk.js.map",
+    "index.html": "/portfolio_alexgalo/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/portfolio_alexgalo/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.1524ae04.chunk.js.LICENSE.txt": "/portfolio_alexgalo/static/js/2.1524ae04.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/portfolio_alexgalo/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1bac4d4f.js",
+    "static/js/2.1524ae04.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.a999251e.chunk.js"
+  ]
+}
